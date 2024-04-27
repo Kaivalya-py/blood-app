@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F2F2F2; /* Light grey background */
+    color: #333; /* Dark grey text */
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .section {
+    background-color: #FFFFFF; /* White background for sections */
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for sections */
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .section h2 {
+    color: #810020; /* Burgundy for section headings */
+  }
+  
+  .section p {
+    color: #333; /* Dark grey text for paragraph */
+  }
+  

@@ -1,0 +1,36 @@
+header {
+    background: linear-gradient(to right, #810020, #CA302D); /* Gradient from Burgundy to Persian Red */
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 50px;
+  }
+  
+  .title {
+    flex-grow: 1;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  nav ul li a:hover {
+    color: #900A22; /* Ruby Red */
+  }
+  
